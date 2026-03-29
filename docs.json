@@ -52,9 +52,7 @@
       "og:site_name": "Laws of Bangladesh"
     }
   },
-
   "favicon": "/logo/flag.svg",
-
   "icons": {
     "library": "fontawesome"
   },
@@ -85,8 +83,8 @@
   "footer": {
     "socials": {
       "github": "https://github.com/lawsofbangladesh/laws",
-      "bluesky": "https://bsky.app/profile/sayed.page",
-      "website": "https://sayed.app"
+      "bluesky": "https://bsky.app/profile/lrs.bd",
+      "website": "https://sayed.page"
     }
   },
   "fonts": {
@@ -100,7 +98,6 @@
   "appearance": {
     "default": "dark"
   },
-
   "navigation": {
     "dropdowns": [
       {
@@ -111,15 +108,15 @@
           {
             "group": "Intro",
             "icon": "user",
-            "pages": ["index"]
+            "pages": [
+              "index"
+            ]
           },
           {
             "group": "Laws",
             "icon": "scale-balanced",
-
             "pages": [
               "laws/index",
-
               {
                 "group": "Volume 1",
                 "icon": "book",
@@ -269,7 +266,8 @@
                   "laws/act-98",
                   "laws/act-99",
                   "laws/act-100",
-                  "laws/act-101"
+                  "laws/act-101",
+                  "laws/act-96"
                 ]
               },
               {
@@ -1995,7 +1993,97 @@
                   "laws/act-1544",
                   "laws/act-1545",
                   "laws/act-1547",
-                  "laws/act-1548"
+                  "laws/act-1548",
+                  "laws/act-1541",
+                  "laws/act-1546",
+                  "laws/act-1549",
+                  "laws/act-1550",
+                  "laws/act-1551",
+                  "laws/act-1552",
+                  "laws/act-1553",
+                  "laws/act-1554",
+                  "laws/act-1555",
+                  "laws/act-1556",
+                  "laws/act-1557",
+                  "laws/act-1558",
+                  "laws/act-1559",
+                  "laws/act-1560",
+                  "laws/act-1561",
+                  "laws/act-1562",
+                  "laws/act-1563",
+                  "laws/act-1564",
+                  "laws/act-1565",
+                  "laws/act-1566",
+                  "laws/act-1567",
+                  "laws/act-1568",
+                  "laws/act-1569",
+                  "laws/act-1570",
+                  "laws/act-1571",
+                  "laws/act-1572",
+                  "laws/act-1573",
+                  "laws/act-1574",
+                  "laws/act-1575",
+                  "laws/act-1576",
+                  "laws/act-1577",
+                  "laws/act-1578",
+                  "laws/act-1579",
+                  "laws/act-1580",
+                  "laws/act-1581",
+                  "laws/act-1582",
+                  "laws/act-1583",
+                  "laws/act-1584",
+                  "laws/act-1585",
+                  "laws/act-1586",
+                  "laws/act-1587",
+                  "laws/act-1588",
+                  "laws/act-1589",
+                  "laws/act-1590",
+                  "laws/act-1591",
+                  "laws/act-1592",
+                  "laws/act-1593"
+                ]
+              },
+              {
+                "group": "Volume 57",
+                "icon": "book",
+                "pages": [
+                  "laws/volume-57",
+                  "laws/act-1594",
+                  "laws/act-1595",
+                  "laws/act-1596",
+                  "laws/act-1597",
+                  "laws/act-1598",
+                  "laws/act-1599",
+                  "laws/act-1600",
+                  "laws/act-1601",
+                  "laws/act-1602",
+                  "laws/act-1603",
+                  "laws/act-1604",
+                  "laws/act-1605",
+                  "laws/act-1606",
+                  "laws/act-1607",
+                  "laws/act-1608",
+                  "laws/act-1609",
+                  "laws/act-1610",
+                  "laws/act-1611",
+                  "laws/act-1612",
+                  "laws/act-1613",
+                  "laws/act-1614",
+                  "laws/act-1615",
+                  "laws/act-1616",
+                  "laws/act-1617",
+                  "laws/act-1618",
+                  "laws/act-1619",
+                  "laws/act-1620",
+                  "laws/act-1621",
+                  "laws/act-1622",
+                  "laws/act-1623",
+                  "laws/act-1624",
+                  "laws/act-1625",
+                  "laws/act-1626",
+                  "laws/act-1627",
+                  "laws/act-1628",
+                  "laws/act-1629"
                 ]
               }
             ]
@@ -2010,17 +2098,108 @@
           {
             "group": "Index",
             "icon": "calendar",
-            "pages": ["years"]
+            "pages": [
+              "years"
+            ]
           },
           {
             "group": "Years",
             "icon": "calendar-days",
             "pages": [
               {
+                "group": "2026",
+                "icon": "calendar",
+                "pages": [
+                  "laws/2026",
+                  "laws/act-1629",
+                  "laws/act-1628",
+                  "laws/act-1627",
+                  "laws/act-1626",
+                  "laws/act-1625",
+                  "laws/act-1624",
+                  "laws/act-1623",
+                  "laws/act-1622",
+                  "laws/act-1621",
+                  "laws/act-1620",
+                  "laws/act-1619",
+                  "laws/act-1618",
+                  "laws/act-1617",
+                  "laws/act-1616",
+                  "laws/act-1615",
+                  "laws/act-1614",
+                  "laws/act-1613",
+                  "laws/act-1612",
+                  "laws/act-1611",
+                  "laws/act-1610",
+                  "laws/act-1609",
+                  "laws/act-1608",
+                  "laws/act-1607",
+                  "laws/act-1606",
+                  "laws/act-1605",
+                  "laws/act-1604",
+                  "laws/act-1603",
+                  "laws/act-1602",
+                  "laws/act-1601",
+                  "laws/act-1600",
+                  "laws/act-1599",
+                  "laws/act-1598",
+                  "laws/act-1597",
+                  "laws/act-1596",
+                  "laws/act-1595",
+                  "laws/act-1594"
+                ]
+              },
+              {
                 "group": "2025",
                 "icon": "calendar",
                 "pages": [
                   "laws/2025",
+                  "laws/act-1593",
+                  "laws/act-1592",
+                  "laws/act-1591",
+                  "laws/act-1590",
+                  "laws/act-1589",
+                  "laws/act-1588",
+                  "laws/act-1587",
+                  "laws/act-1586",
+                  "laws/act-1585",
+                  "laws/act-1584",
+                  "laws/act-1583",
+                  "laws/act-1582",
+                  "laws/act-1581",
+                  "laws/act-1580",
+                  "laws/act-1579",
+                  "laws/act-1578",
+                  "laws/act-1577",
+                  "laws/act-1576",
+                  "laws/act-1575",
+                  "laws/act-1574",
+                  "laws/act-1573",
+                  "laws/act-1572",
+                  "laws/act-1571",
+                  "laws/act-1570",
+                  "laws/act-1569",
+                  "laws/act-1568",
+                  "laws/act-1567",
+                  "laws/act-1566",
+                  "laws/act-1565",
+                  "laws/act-1564",
+                  "laws/act-1563",
+                  "laws/act-1562",
+                  "laws/act-1561",
+                  "laws/act-1560",
+                  "laws/act-1559",
+                  "laws/act-1558",
+                  "laws/act-1557",
+                  "laws/act-1556",
+                  "laws/act-1555",
+                  "laws/act-1554",
+                  "laws/act-1553",
+                  "laws/act-1552",
+                  "laws/act-1551",
+                  "laws/act-1550",
+                  "laws/act-1546",
+                  "laws/act-1541",
                   "laws/act-1549",
                   "laws/act-1548",
                   "laws/act-1547",
@@ -2556,6 +2735,16 @@
                 "icon": "calendar",
                 "pages": [
                   "laws/2010",
+                  "laws/act-1067",
+                  "laws/act-1066",
+                  "laws/act-1065",
+                  "laws/act-1064",
+                  "laws/act-1063",
+                  "laws/act-1062",
+                  "laws/act-1061",
+                  "laws/act-1060",
+                  "laws/act-1058",
+                  "laws/act-1057",
                   "laws/act-1059",
                   "laws/act-1056",
                   "laws/act-1055",
@@ -2622,6 +2811,7 @@
                 "icon": "calendar",
                 "pages": [
                   "laws/2006",
+                  "laws/act-939",
                   "laws/act-956",
                   "laws/act-955",
                   "laws/act-954",
@@ -2902,6 +3092,7 @@
                 "icon": "calendar",
                 "pages": [
                   "laws/1992",
+                  "laws/act-760",
                   "laws/act-774",
                   "laws/act-773",
                   "laws/act-772",
@@ -2923,6 +3114,7 @@
                 "icon": "calendar",
                 "pages": [
                   "laws/1991",
+                  "laws/act-759",
                   "laws/act-758",
                   "laws/act-757",
                   "laws/act-756",
@@ -3387,6 +3579,8 @@
                 "icon": "calendar",
                 "pages": [
                   "laws/1972",
+                  "laws/act-410",
+                  "laws/act-367",
                   "laws/act-1461",
                   "laws/act-1310",
                   "laws/act-426",
@@ -3541,6 +3735,7 @@
                 "icon": "calendar",
                 "pages": [
                   "laws/1963",
+                  "laws/act-336",
                   "laws/act-335",
                   "laws/act-334",
                   "laws/act-333",
@@ -3593,6 +3788,7 @@
                 "icon": "calendar",
                 "pages": [
                   "laws/1960",
+                  "laws/act-300",
                   "laws/act-1365",
                   "laws/act-304",
                   "laws/act-303",
@@ -3606,6 +3802,7 @@
                 "icon": "calendar",
                 "pages": [
                   "laws/1959",
+                  "laws/act-1365",
                   "laws/act-1364",
                   "laws/act-298",
                   "laws/act-297",
@@ -3675,12 +3872,20 @@
               {
                 "group": "1955",
                 "icon": "calendar",
-                "pages": ["laws/1955", "laws/act-1359", "laws/act-1358"]
+                "pages": [
+                  "laws/1955",
+                  "laws/act-1359",
+                  "laws/act-1358"
+                ]
               },
               {
                 "group": "1954",
                 "icon": "calendar",
-                "pages": ["laws/1954", "laws/act-1357", "laws/act-261"]
+                "pages": [
+                  "laws/1954",
+                  "laws/act-1357",
+                  "laws/act-261"
+                ]
               },
               {
                 "group": "1953",
@@ -3732,6 +3937,8 @@
                 "icon": "calendar",
                 "pages": [
                   "laws/1950",
+                  "laws/act-1344",
+                  "laws/act-239",
                   "laws/act-1343",
                   "laws/act-240",
                   "laws/act-238",
@@ -3746,13 +3953,19 @@
               {
                 "group": "1949",
                 "icon": "calendar",
-                "pages": ["laws/1949", "laws/act-232", "laws/act-228"]
+                "pages": [
+                  "laws/1949",
+                  "laws/act-231",
+                  "laws/act-232",
+                  "laws/act-228"
+                ]
               },
               {
                 "group": "1948",
                 "icon": "calendar",
                 "pages": [
                   "laws/1948",
+                  "laws/act-228",
                   "laws/act-230",
                   "laws/act-229",
                   "laws/act-227",
@@ -3868,6 +4081,7 @@
                 "icon": "calendar",
                 "pages": [
                   "laws/1939",
+                  "laws/act-1325",
                   "laws/act-183",
                   "laws/act-182",
                   "laws/act-181",
@@ -3911,7 +4125,10 @@
               {
                 "group": "1935",
                 "icon": "calendar",
-                "pages": ["laws/1935", "laws/act-167"]
+                "pages": [
+                  "laws/1935",
+                  "laws/act-167"
+                ]
               },
               {
                 "group": "1934",
@@ -3948,7 +4165,11 @@
               {
                 "group": "1931",
                 "icon": "calendar",
-                "pages": ["laws/1931", "laws/act-155", "laws/act-154"]
+                "pages": [
+                  "laws/1931",
+                  "laws/act-155",
+                  "laws/act-154"
+                ]
               },
               {
                 "group": "1930",
@@ -3964,12 +4185,20 @@
               {
                 "group": "1929",
                 "icon": "calendar",
-                "pages": ["laws/1929", "laws/act-149", "laws/act-148"]
+                "pages": [
+                  "laws/1929",
+                  "laws/act-149",
+                  "laws/act-148"
+                ]
               },
               {
                 "group": "1928",
                 "icon": "calendar",
-                "pages": ["laws/1928", "laws/act-147", "laws/act-146"]
+                "pages": [
+                  "laws/1928",
+                  "laws/act-147",
+                  "laws/act-146"
+                ]
               },
               {
                 "group": "1927",
@@ -4007,7 +4236,10 @@
               {
                 "group": "1924",
                 "icon": "calendar",
-                "pages": ["laws/1924", "laws/act-133"]
+                "pages": [
+                  "laws/1924",
+                  "laws/act-133"
+                ]
               },
               {
                 "group": "1923",
@@ -4027,12 +4259,19 @@
               {
                 "group": "1922",
                 "icon": "calendar",
-                "pages": ["laws/1922", "laws/act-124", "laws/act-123"]
+                "pages": [
+                  "laws/1922",
+                  "laws/act-124",
+                  "laws/act-123"
+                ]
               },
               {
                 "group": "1921",
                 "icon": "calendar",
-                "pages": ["laws/1921", "laws/act-122"]
+                "pages": [
+                  "laws/1921",
+                  "laws/act-122"
+                ]
               },
               {
                 "group": "1920",
@@ -4072,17 +4311,29 @@
               {
                 "group": "1917",
                 "icon": "calendar",
-                "pages": ["laws/1917", "laws/act-107", "laws/act-106"]
+                "pages": [
+                  "laws/1917",
+                  "laws/act-107",
+                  "laws/act-106"
+                ]
               },
               {
                 "group": "1916",
                 "icon": "calendar",
-                "pages": ["laws/1916", "laws/act-105", "laws/act-104"]
+                "pages": [
+                  "laws/1916",
+                  "laws/act-105",
+                  "laws/act-104"
+                ]
               },
               {
                 "group": "1914",
                 "icon": "calendar",
-                "pages": ["laws/1914", "laws/act-103", "laws/act-102"]
+                "pages": [
+                  "laws/1914",
+                  "laws/act-103",
+                  "laws/act-102"
+                ]
               },
               {
                 "group": "1913",
@@ -4099,22 +4350,36 @@
               {
                 "group": "1912",
                 "icon": "calendar",
-                "pages": ["laws/1912", "laws/act-95"]
+                "pages": [
+                  "laws/1912",
+                  "laws/act-96",
+                  "laws/act-95"
+                ]
               },
               {
                 "group": "1911",
                 "icon": "calendar",
-                "pages": ["laws/1911", "laws/act-94"]
+                "pages": [
+                  "laws/1911",
+                  "laws/act-94"
+                ]
               },
               {
                 "group": "1910",
                 "icon": "calendar",
-                "pages": ["laws/1910", "laws/act-93"]
+                "pages": [
+                  "laws/1910",
+                  "laws/act-93"
+                ]
               },
               {
                 "group": "1909",
                 "icon": "calendar",
-                "pages": ["laws/1909", "laws/act-92", "laws/act-91"]
+                "pages": [
+                  "laws/1909",
+                  "laws/act-92",
+                  "laws/act-91"
+                ]
               },
               {
                 "group": "1908",
@@ -4131,27 +4396,44 @@
               {
                 "group": "1905",
                 "icon": "calendar",
-                "pages": ["laws/1905", "laws/act-85"]
+                "pages": [
+                  "laws/1905",
+                  "laws/act-85"
+                ]
               },
               {
                 "group": "1904",
                 "icon": "calendar",
-                "pages": ["laws/1904", "laws/act-84"]
+                "pages": [
+                  "laws/1904",
+                  "laws/act-84"
+                ]
               },
               {
                 "group": "1903",
                 "icon": "calendar",
-                "pages": ["laws/1903", "laws/act-83", "laws/act-82"]
+                "pages": [
+                  "laws/1903",
+                  "laws/act-83",
+                  "laws/act-82"
+                ]
               },
               {
                 "group": "1901",
                 "icon": "calendar",
-                "pages": ["laws/1901", "laws/act-81"]
+                "pages": [
+                  "laws/1901",
+                  "laws/act-81"
+                ]
               },
               {
                 "group": "1900",
                 "icon": "calendar",
-                "pages": ["laws/1900", "laws/act-1313", "laws/act-80"]
+                "pages": [
+                  "laws/1900",
+                  "laws/act-1313",
+                  "laws/act-80"
+                ]
               },
               {
                 "group": "1899",
@@ -4176,27 +4458,51 @@
               {
                 "group": "1897",
                 "icon": "calendar",
-                "pages": ["laws/1897", "laws/act-73", "laws/act-72"]
+                "pages": [
+                  "laws/1897",
+                  "laws/act-73",
+                  "laws/act-72"
+                ]
               },
               {
                 "group": "1896",
                 "icon": "calendar",
-                "pages": ["laws/1896", "laws/act-71"]
+                "pages": [
+                  "laws/1896",
+                  "laws/act-71"
+                ]
               },
               {
                 "group": "1895",
                 "icon": "calendar",
-                "pages": ["laws/1895", "laws/act-70"]
+                "pages": [
+                  "laws/1895",
+                  "laws/act-70"
+                ]
               },
               {
                 "group": "1894",
                 "icon": "calendar",
-                "pages": ["laws/1894", "laws/act-69"]
+                "pages": [
+                  "laws/1894",
+                  "laws/act-69"
+                ]
               },
               {
                 "group": "1893",
                 "icon": "calendar",
-                "pages": ["laws/1893", "laws/act-68"]
+                "pages": [
+                  "laws/1893",
+                  "laws/act-68"
+                ]
+              },
+              {
+                "group": "1891",
+                "icon": "calendar",
+                "pages": [
+                  "laws/1891",
+                  "laws/act-67"
+                ]
               },
               {
                 "group": "1890",
@@ -4233,22 +4539,36 @@
               {
                 "group": "1886",
                 "icon": "calendar",
-                "pages": ["laws/1886", "laws/act-56"]
+                "pages": [
+                  "laws/1886",
+                  "laws/act-56"
+                ]
               },
               {
                 "group": "1885",
                 "icon": "calendar",
-                "pages": ["laws/1885", "laws/act-55", "laws/act-54"]
+                "pages": [
+                  "laws/1885",
+                  "laws/act-55",
+                  "laws/act-54"
+                ]
               },
               {
                 "group": "1884",
                 "icon": "calendar",
-                "pages": ["laws/1884", "laws/act-53", "laws/act-52"]
+                "pages": [
+                  "laws/1884",
+                  "laws/act-53",
+                  "laws/act-52"
+                ]
               },
               {
                 "group": "1883",
                 "icon": "calendar",
-                "pages": ["laws/1883", "laws/act-51"]
+                "pages": [
+                  "laws/1883",
+                  "laws/act-51"
+                ]
               },
               {
                 "group": "1882",
@@ -4285,22 +4605,36 @@
               {
                 "group": "1879",
                 "icon": "calendar",
-                "pages": ["laws/1879", "laws/act-40", "laws/act-39"]
+                "pages": [
+                  "laws/1879",
+                  "laws/act-40",
+                  "laws/act-39"
+                ]
               },
               {
                 "group": "1878",
                 "icon": "calendar",
-                "pages": ["laws/1878", "laws/act-38", "laws/act-37"]
+                "pages": [
+                  "laws/1878",
+                  "laws/act-38",
+                  "laws/act-37"
+                ]
               },
               {
                 "group": "1877",
                 "icon": "calendar",
-                "pages": ["laws/1877", "laws/act-36"]
+                "pages": [
+                  "laws/1877",
+                  "laws/act-36"
+                ]
               },
               {
                 "group": "1876",
                 "icon": "calendar",
-                "pages": ["laws/1876", "laws/act-35"]
+                "pages": [
+                  "laws/1876",
+                  "laws/act-35"
+                ]
               },
               {
                 "group": "1875",
@@ -4315,12 +4649,20 @@
               {
                 "group": "1874",
                 "icon": "calendar",
-                "pages": ["laws/1874", "laws/act-31", "laws/act-30"]
+                "pages": [
+                  "laws/1874",
+                  "laws/act-31",
+                  "laws/act-30"
+                ]
               },
               {
                 "group": "1873",
                 "icon": "calendar",
-                "pages": ["laws/1873", "laws/act-29", "laws/act-28"]
+                "pages": [
+                  "laws/1873",
+                  "laws/act-29",
+                  "laws/act-28"
+                ]
               },
               {
                 "group": "1872",
@@ -4336,22 +4678,35 @@
               {
                 "group": "1871",
                 "icon": "calendar",
-                "pages": ["laws/1871", "laws/act-23", "laws/act-22"]
+                "pages": [
+                  "laws/1871",
+                  "laws/act-23",
+                  "laws/act-22"
+                ]
               },
               {
                 "group": "1870",
                 "icon": "calendar",
-                "pages": ["laws/1870", "laws/act-21"]
+                "pages": [
+                  "laws/1870",
+                  "laws/act-21"
+                ]
               },
               {
                 "group": "1869",
                 "icon": "calendar",
-                "pages": ["laws/1869", "laws/act-20"]
+                "pages": [
+                  "laws/1869",
+                  "laws/act-20"
+                ]
               },
               {
                 "group": "1868",
                 "icon": "calendar",
-                "pages": ["laws/1868", "laws/act-19"]
+                "pages": [
+                  "laws/1868",
+                  "laws/act-19"
+                ]
               },
               {
                 "group": "1867",
@@ -4366,82 +4721,137 @@
               {
                 "group": "1865",
                 "icon": "calendar",
-                "pages": ["laws/1865", "laws/act-15"]
+                "pages": [
+                  "laws/1865",
+                  "laws/act-15"
+                ]
               },
               {
                 "group": "1864",
                 "icon": "calendar",
-                "pages": ["laws/1864", "laws/act-14"]
+                "pages": [
+                  "laws/1864",
+                  "laws/act-14"
+                ]
               },
               {
                 "group": "1861",
                 "icon": "calendar",
-                "pages": ["laws/1861", "laws/act-13", "laws/act-12"]
+                "pages": [
+                  "laws/1861",
+                  "laws/act-13",
+                  "laws/act-12"
+                ]
               },
               {
                 "group": "1860",
                 "icon": "calendar",
-                "pages": ["laws/1860", "laws/act-11", "laws/act-10"]
+                "pages": [
+                  "laws/1860",
+                  "laws/act-11",
+                  "laws/act-10"
+                ]
               },
               {
                 "group": "1856",
                 "icon": "calendar",
-                "pages": ["laws/1856", "laws/act-9", "laws/act-8"]
+                "pages": [
+                  "laws/1856",
+                  "laws/act-9",
+                  "laws/act-8"
+                ]
               },
               {
                 "group": "1855",
                 "icon": "calendar",
-                "pages": ["laws/1855", "laws/act-7", "laws/act-6"]
+                "pages": [
+                  "laws/1855",
+                  "laws/act-7",
+                  "laws/act-6"
+                ]
               },
               {
                 "group": "1851",
                 "icon": "calendar",
-                "pages": ["laws/1851", "laws/act-5"]
+                "pages": [
+                  "laws/1851",
+                  "laws/act-5"
+                ]
               },
               {
                 "group": "1850",
                 "icon": "calendar",
-                "pages": ["laws/1850", "laws/act-4", "laws/act-3", "laws/act-2"]
+                "pages": [
+                  "laws/1850",
+                  "laws/act-4",
+                  "laws/act-3",
+                  "laws/act-2"
+                ]
               },
               {
                 "group": "1836",
                 "icon": "calendar",
-                "pages": ["laws/1836", "laws/act-1"]
+                "pages": [
+                  "laws/1836",
+                  "laws/act-1"
+                ]
               },
               {
                 "group": "1833",
                 "icon": "calendar",
-                "pages": ["laws/1833", "laws/act-1322"]
+                "pages": [
+                  "laws/1833",
+                  "laws/act-1322"
+                ]
               },
               {
                 "group": "1829",
                 "icon": "calendar",
-                "pages": ["laws/1829", "laws/act-1321", "laws/act-1320"]
+                "pages": [
+                  "laws/1829",
+                  "laws/act-1321",
+                  "laws/act-1320"
+                ]
               },
               {
                 "group": "1825",
                 "icon": "calendar",
-                "pages": ["laws/1825", "laws/act-1319"]
+                "pages": [
+                  "laws/1825",
+                  "laws/act-1319"
+                ]
               },
               {
                 "group": "1822",
                 "icon": "calendar",
-                "pages": ["laws/1822", "laws/act-1318"]
+                "pages": [
+                  "laws/1822",
+                  "laws/act-1318"
+                ]
               },
               {
                 "group": "1818",
                 "icon": "calendar",
-                "pages": ["laws/1818", "laws/act-1317"]
+                "pages": [
+                  "laws/1818",
+                  "laws/act-1317"
+                ]
               },
               {
                 "group": "1810",
                 "icon": "calendar",
-                "pages": ["laws/1810", "laws/act-1316"]
+                "pages": [
+                  "laws/1810",
+                  "laws/act-1316"
+                ]
               },
               {
                 "group": "1799",
                 "icon": "calendar",
-                "pages": ["laws/1799", "laws/act-1315"]
+                "pages": [
+                  "laws/1799",
+                  "laws/act-1315"
+                ]
               }
             ]
           }
@@ -4451,7 +4861,11 @@
         "dropdown": "Contribution",
         "icon": "git-alt",
         "description": "Contribute to the project",
-        "pages": ["contribute", "list", "years"]
+        "pages": [
+          "contribute",
+          "list",
+          "years"
+        ]
       }
     ]
   }
