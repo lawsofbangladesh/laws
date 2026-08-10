@@ -2189,7 +2189,12 @@
                   "laws/act-1725",
                   "laws/act-1726",
                   "laws/act-1727",
-                  "laws/act-1728"
+                  "laws/act-1728",
+                  "laws/act-1729",
+                  "laws/act-1730",
+                  "laws/act-1731",
+                  "laws/act-1732",
+                  "laws/act-1733"
                 ]
               }
             ]
@@ -2217,6 +2222,11 @@
                 "icon": "calendar",
                 "pages": [
                   "laws/2026",
+                  "laws/act-1733",
+                  "laws/act-1732",
+                  "laws/act-1731",
+                  "laws/act-1730",
+                  "laws/act-1729",
                   "laws/act-1728",
                   "laws/act-1727",
                   "laws/act-1726",
