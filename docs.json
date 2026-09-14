@@ -1471,7 +1471,8 @@
                   "laws/act-1078",
                   "laws/act-1079",
                   "laws/act-1080",
-                  "laws/act-1081"
+                  "laws/act-1081",
+                  "laws/act-1734"
                 ]
               },
               {
@@ -2194,7 +2195,10 @@
                   "laws/act-1730",
                   "laws/act-1731",
                   "laws/act-1732",
-                  "laws/act-1733"
+                  "laws/act-1733",
+                  "laws/act-1735",
+                  "laws/act-1736",
+                  "laws/act-1737"
                 ]
               }
             ]
@@ -2222,6 +2226,9 @@
                 "icon": "calendar",
                 "pages": [
                   "laws/2026",
+                  "laws/act-1737",
+                  "laws/act-1736",
+                  "laws/act-1735",
                   "laws/act-1733",
                   "laws/act-1732",
                   "laws/act-1731",
@@ -2931,6 +2938,7 @@
                 "icon": "calendar",
                 "pages": [
                   "laws/2011",
+                  "laws/act-1734",
                   "laws/act-1081",
                   "laws/act-1080",
                   "laws/act-1079",
