@@ -2084,7 +2084,10 @@
                   "laws/act-1626",
                   "laws/act-1627",
                   "laws/act-1628",
-                  "laws/act-1629"
+                  "laws/act-1629",
+                  "laws/act-1741",
+                  "laws/act-1742",
+                  "laws/act-1743"
                 ]
               },
               {
@@ -2229,6 +2232,9 @@
                 "icon": "calendar",
                 "pages": [
                   "laws/2026",
+                  "laws/act-1743",
+                  "laws/act-1742",
+                  "laws/act-1741",
                   "laws/act-1740",
                   "laws/act-1739",
                   "laws/act-1738",
